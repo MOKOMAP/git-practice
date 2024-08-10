@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 local-repo-change
-new-featureブランチで変更
+true-conflictブランチで変更
 no-fast-forward
 conflict
