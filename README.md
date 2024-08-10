@@ -3,3 +3,4 @@
 local-repo-change
 new-featureブランチで変更
 no-fast-forward
+conflict
